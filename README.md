@@ -13,5 +13,10 @@ Tasked with editing and updating HTML & CSS files.
 -cleaned up css style order to flow with document better
 
 ------Additional Links------
-GitHub Page: https://skylar-harwell.github.io/Submitted_Homework/
+GitHub Page: https://skylar-harwell.github.io/Submitted_Homework/   
+
 GitHub Repo: https://github.com/Skylar-Harwell/Submitted_Homework
+
+![Screenshot](Assets/images/Screenshot_of_website.png?)
+
+![Screenshot](Assets/images/Screenshot_of_website2.png?)
